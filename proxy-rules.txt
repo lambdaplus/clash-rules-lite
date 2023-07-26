@@ -1,5 +1,4 @@
 payload:
-  ## 自定义规则写在下面
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
