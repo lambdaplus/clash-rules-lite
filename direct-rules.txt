@@ -3,3 +3,6 @@ payload:
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,sslip.io
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,clash.razord.top
