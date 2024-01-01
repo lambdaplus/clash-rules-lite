@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,sslip.io
   - DOMAIN,yacd.haishan.me
   - DOMAIN,clash.razord.top
+  - DOMAIN,fast.com
