@@ -2,3 +2,6 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN,xn--ngstr-cn-8za9o.com
+  - DOMAIN,rr3---sn-j5o76n7l.xn--ngstr-cn-8za9o.com
+  - DOMAIN,bbs.acgrip.com
